@@ -52,5 +52,5 @@
   - Start The Main.java In src/main/java/ru/cuvento (Or Start gradlew.bat - Windows; gradlew - Linux/MacOS)
 
 ## 🐜 Find A Bug?
-- Contact With Me:
-  - Discord: ceuvento
+👆 Contact With Me:<br>
+```💜 Discord: ceuvento```
