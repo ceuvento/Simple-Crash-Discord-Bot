@@ -4,13 +4,14 @@
 
 ## 💰 Requirements:
 - JDK 23 (If Not Installed: https://adoptium.net/temurin/releases/?os=any&arch=any&version=23)
-- GRADLE
+- Gradle
+- IntelliJ IDEA (Optional)
 
 ## ❤️ How To Create A Bot:
   - Open https://discord.com/developers/applications/ and create a new bot!
   - In Bot Settings open the category named the "Bot", then click on the "Reset Token" and copy the token
   - Open "OAuth2" and in "OAuth2 URL Generator" select the "bot", select the "Administrator" below
-  - copy the "Generated URL" and open this URL in browser, select Discord Server and click "Continue/OK"
+  - Copy the "Generated URL" and open this URL in browser, select Discord Server and click "Continue/OK"
   - Well Done!
 ## 🩵 How To Start Bot:
   - Copy the repository:
@@ -18,7 +19,7 @@
     git clone https://github.com/ceuvento/Simple-Crash-Discord-Bot.git
     cd Simple-Crash-Discord-Bot
     ```
-  - Generate A Gradle Project With 23 JDK Via Intellij IDEA
+  - Generate A Gradle Project With 23 JDK Via Intellij IDEA (Or another Gradle project way)
   - Delete src Directory And Paste My src Directory
   - In build.gradle replace dependencies:
   - ```gradle
