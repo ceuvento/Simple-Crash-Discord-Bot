@@ -30,6 +30,7 @@
         implementation('org.slf4j:slf4j-simple:2.0.9')
     }
     ```
+  - Save Gradle
   - Create .env File In Source Directory
   - In .env File Paste This:
   - ```yaml
@@ -51,6 +52,14 @@
     ```
   - Start The Main.java In src/main/java/ru/cuvento (Or Start gradlew.bat - Windows; gradlew - Linux/MacOS)
 
+## 🍎 Usage:
+  - Open The Discord Server
+  - Open The Server Settings And Open The Roles Category
+  - Move Role: "YourNameBot" To The Top
+  - Save Changes
+  - Write A ```/bussin``` Command
+  - SERVER IS CRASHED! 💥
+
 ## 🐜 Find A Bug?
 👆 Contact With Me:<br>
-```💜 Discord: ceuvento```
+  - ```💜 Discord: ceuvento```
