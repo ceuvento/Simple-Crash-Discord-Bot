@@ -50,7 +50,7 @@
     MESSAGES_ON_EACH=15
     AVATAR_URL=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
     ```
-  - Start The Main.java In src/main/java/ru/cuvento (Or Start gradlew.bat - Windows; gradlew - Linux/MacOS)
+  - Start The Main.java In src/main/java/ru/cuvento (Or Start ./gradlew.bat run - Windows; ./gradlew run - Linux/MacOS)
 
 ## 🍎 Usage:
   - Open The Discord Server
